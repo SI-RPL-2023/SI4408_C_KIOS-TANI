@@ -1,0 +1,1 @@
+<img class="w-1/12" src="/assets/login.png" alt="">
